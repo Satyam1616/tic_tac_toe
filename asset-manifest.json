@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Satyam1616/tic_tac_toe/static/css/main.2b0b5913.css",
+    "main.js": "/Satyam1616/tic_tac_toe/static/js/main.11de313b.js",
+    "static/js/453.e036e8b5.chunk.js": "/Satyam1616/tic_tac_toe/static/js/453.e036e8b5.chunk.js",
+    "index.html": "/Satyam1616/tic_tac_toe/index.html",
+    "main.2b0b5913.css.map": "/Satyam1616/tic_tac_toe/static/css/main.2b0b5913.css.map",
+    "main.11de313b.js.map": "/Satyam1616/tic_tac_toe/static/js/main.11de313b.js.map",
+    "453.e036e8b5.chunk.js.map": "/Satyam1616/tic_tac_toe/static/js/453.e036e8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b0b5913.css",
+    "static/js/main.11de313b.js"
+  ]
+}
